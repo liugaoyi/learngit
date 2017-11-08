@@ -1,0 +1,72 @@
+[33mcommit 9b8d7028730f3782de60d9adfb249063eaba2ccc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 6bf9f8b 5ba7dd6
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 12:00:28 2017 +0800
+
+    conflict fixed
+
+[33mcommit 6bf9f8bdb079165b3c083af0245a6b1f0dea36f0[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:45:55 2017 +0800
+
+    &simple
+
+[33mcommit 5ba7dd6080167540a841cbc4f20c682e49ee1fe7[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:36:11 2017 +0800
+
+    AND simple
+
+[33mcommit 2d083b66d24a94824fa2fe4bb7ff77574a1a3810[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:30:23 2017 +0800
+
+    branch test
+
+[33mcommit 1f481f615b18ad8c1b5329bdd9edc5ec57fa9f23[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:16:07 2017 +0800
+
+    remove test.txt
+
+[33mcommit f9757746d1a7e3d91bbed85a7aafebe949bd4a50[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:14:55 2017 +0800
+
+    add test.txt
+
+[33mcommit ddad328b795b134b783c6b7af96796cbd6aa2750[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:09:37 2017 +0800
+
+    git tracks changes2
+
+[33mcommit 51e059e478bc56fd13b1d2ae5b0d3a211481f0b5[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:07:46 2017 +0800
+
+    git tracks changes
+
+[33mcommit 55fbabb1c7b22e2ec7576b32609d4dd68befb21a[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 11:04:42 2017 +0800
+
+    understand how stage works
+
+[33mcommit daff3f11aa6dd6c19715d1329f46c6efaffa5bf1[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 10:56:22 2017 +0800
+
+    append GPL
+
+[33mcommit f369523478d925905c2f4f4d6de9a63adfd741a1[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 10:54:58 2017 +0800
+
+    add distributed
+
+[33mcommit 2355d0803522009e8ad8d7be7917590eafbae8e9[m
+Author: liup <1424964313@qq.com>
+Date:   Wed Nov 8 10:52:53 2017 +0800
+
+    wrote a readme file
